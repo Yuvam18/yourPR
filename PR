@@ -1,0 +1,5 @@
+#include<iostream.h>
+void main()
+{
+cout<<"hello i am a student and my name is aman chauhan";
+}
